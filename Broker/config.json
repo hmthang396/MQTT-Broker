@@ -1,0 +1,8 @@
+{
+  "Port": 1887,
+  "Username": "NKE",
+  "Password": "!NKE@123456#",
+  "MongoDBUrl": "mongodb://localhost:27017",
+  "Databases": "Monitor",
+  "Collection": "mqtts"
+}
